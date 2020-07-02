@@ -1,2 +1,0 @@
-# pokemonopedia_local
-Test
